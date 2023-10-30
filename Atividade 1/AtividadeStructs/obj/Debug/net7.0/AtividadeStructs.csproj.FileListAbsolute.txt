@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\bin\Debug\net7.0\AtividadeStructs.exe
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\bin\Debug\net7.0\AtividadeStructs.deps.json
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\bin\Debug\net7.0\AtividadeStructs.runtimeconfig.json
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\bin\Debug\net7.0\AtividadeStructs.dll
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\bin\Debug\net7.0\AtividadeStructs.pdb
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.dll
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\refint\AtividadeStructs.dll
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.pdb
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\AtividadeStructs.genruntimeconfig.cache
+C:\Users\lucas\source\repos\AtividadeStructs\AtividadeStructs\obj\Debug\net7.0\ref\AtividadeStructs.dll

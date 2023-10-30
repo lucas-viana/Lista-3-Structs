@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\bin\Debug\net7.0\AtividadeEletrodomesticosiF.exe
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\bin\Debug\net7.0\AtividadeEletrodomesticosiF.deps.json
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\bin\Debug\net7.0\AtividadeEletrodomesticosiF.runtimeconfig.json
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\bin\Debug\net7.0\AtividadeEletrodomesticosiF.dll
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\bin\Debug\net7.0\AtividadeEletrodomesticosiF.pdb
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.dll
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\refint\AtividadeEletrodomesticosiF.dll
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.pdb
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\AtividadeEletrodomesticosiF.genruntimeconfig.cache
+C:\Users\lucas\source\repos\AtividadeEletrodomesticosiF\AtividadeEletrodomesticosiF\obj\Debug\net7.0\ref\AtividadeEletrodomesticosiF.dll
